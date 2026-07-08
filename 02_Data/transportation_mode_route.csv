@@ -1,0 +1,13 @@
+"transportation_modes","routes","count"
+"Air","Route C",8
+"Air","Route A",11
+"Air","Route B",7
+"Rail","Route C",3
+"Rail","Route B",11
+"Rail","Route A",14
+"Road","Route A",11
+"Road","Route B",13
+"Road","Route C",5
+"Sea","Route B",6
+"Sea","Route A",7
+"Sea","Route C",4
